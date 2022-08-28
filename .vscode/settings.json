@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        ".cp": true,
+        ".gitignore": true,
+        ".ignore": true,
+        "*.target": true,
+        "build.rs": true,
+        "Cargo.lock": true,
+        "Cargo.toml": true,
+        "src/*.rs": true,
+        "src/bin/?.rs": true,
+        "src/lib": true,
+        "src/luma": true,
+        "target": true
+    }
+}

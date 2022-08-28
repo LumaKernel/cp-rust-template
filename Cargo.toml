@@ -1,0 +1,7 @@
+[package]
+name = "cp"
+version = "0.1.0"
+edition = "2018"
+
+[build-dependencies]
+rustsourcebundler = { git = "https://github.com/LumaKernel/rust-sourcebundler", rev = "07ee9275e33268bc1cf1309e1ce170503d5ca22f" }
